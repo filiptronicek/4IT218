@@ -1,0 +1,22 @@
+https://upload.wikimedia.org/wikipedia/commons/c/c1/Google_%22G%22_logo.svg	Google	https://accounts.google.com/o/oauth2/v2/auth	openid profile	https://oauth2.googleapis.com/token	https://openidconnect.googleapis.com/v1/userinfo	client-id-1	secret-1
+https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png	GitHub	https://github.com/login/oauth/authorize	read:user	https://github.com/login/oauth/access_token	https://api.github.com/user	client-id-2	secret-2
+https://upload.wikimedia.org/wikipedia/en/9/98/Discord_logo.svg	Discord	https://discord.com/api/oauth2/authorize	identify email	https://discord.com/api/oauth2/token	https://discord.com/api/users/@me	client-id-3	secret-3
+
+011409f0-0000-7abc-8def-000000002015	TagTram Studios	tagtram-studios
+00f074d0-0000-7abc-8def-000000002012	A24 films	a24-films
+00c0a310-0000-7abc-8def-000000001989	Televizní vysílání Malín	tv-malin
+
+Krátký film od TagTram Studios.	15-JUN-25	https://picsum.photos/seed/kratkodobe/1280/720	https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd	011409f0-0000-7abc-8def-000000002015
+Je to lepší než Backrooms.	10-JAN-26	https://picsum.photos/seed/drama/1280/720	https://media.axinom.com/clear/Manifest.mpd	00f074d0-0000-7abc-8def-000000002012
+Pohádka, trochu delší než je třeba.	05-NOV-25	https://picsum.photos/seed/zito/1280/720	https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd	00c0a310-0000-7abc-8def-000000001989
+
+011409f0-0000-7abc-8def-000000002015	04cb2204-0000-7abc-8def-000000002137	admin
+00f074d0-0000-7abc-8def-000000002012	0e608a7c-6bff-7abc-8def-000000009999	clen
+00c0a310-0000-7abc-8def-000000001989	00dc5895-bfff-7abc-8def-000000001999	admin
+
+04cb2204-0000-7abc-8def-000000002137	019159d0-0000-7abc-8def-000000002025	Technicky skvělé, XML validní.	5	16-JUN-25
+00dc5895-bfff-7abc-8def-000000001999	01947b10-0000-7abc-8def-000000002026	Chybí tomu jasná ontologie.	2.5	15-JAN-26
+0e608a7c-6bff-7abc-8def-000000009999	019159d0-1111-7abc-8def-000000002025	Vhodné pro výuku datového modelování.	4	10-NOV-25
+02d98d5b-1880-7abc-8def-000000002069	01947b10-0000-7abc-8def-000000002026		5	01-FEB-26
+03459ebd-e000-7abc-8def-000000002084	019159d0-0000-7abc-8def-000000002025		4.5	20-JUN-25
+
