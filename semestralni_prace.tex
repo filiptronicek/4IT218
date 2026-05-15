@@ -684,7 +684,7 @@ videa.
 
 Popis omezení: Aktivita sledování je vázána na jednoho uživatele.
 
-Druh použitého řešení referenční integrity pro operaci DELETE: CASCADE\footnote{Alternativní návrh kaskádování po výmazu uživatele spojeného se sledovací aktivitou obsahoval nastavení uživatelského ID záznamu na hodnotu NULL. Bohužel, stejně jako výmaz celého záznamu kaskádovaním s sebou přináší NULL své vlastní mouchy, jako tu, že NULL by omezil možnost rozlišení počtu unikátních uživatelů, kteří video zhlédli.}.
+Druh použitého řešení referenční integrity pro operaci DELETE: CASCADE\footnote{Alternativní návrh kaskádování po výmazu uživatele spojeného se sledovací aktivitou obsahoval nastavení uživatelského ID záznamu na hodnotu NULL. Bohužel, stejně jako výmaz celého záznamu kaskádováním s sebou přináší NULL své vlastní mouchy: NULL by omezil možnost rozlišení počtu unikátních uživatelů, kteří video zhlédli.}.
 
 SQL kód příslušného omezení:
 \begin{lstlisting}
